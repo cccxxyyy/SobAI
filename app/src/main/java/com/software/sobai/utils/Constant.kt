@@ -6,4 +6,4 @@ package com.software.sobai.utils
  * @Description: 常量
 
  */
-const val BASE_URL = "https://api.sunofbeaches.com"
+const val SUNNY_BEACH_API_BASE_URL = "https://api.sunofbeaches.com"
